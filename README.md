@@ -12,7 +12,7 @@ Welcome to my GitHub!
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Ruby" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Go" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg">
   <img align="center" alt="C" height="40" width="55"
@@ -27,6 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
 🇧🇷 - Born in Mossoró, RN <br>
 💻 - +8 years of Programming experience <br>
 👨‍🎓 - Mechanical Eng. Bachelor's Student <br>
+❤️ - <img align="center" alt="Rubynho" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg"> Ruby lover 
 
 
 
