@@ -24,11 +24,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
 
 ### About me 🫠
 
+fn speak() -> &'static str { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] }
+
 🇧🇷 - Born in Mossoró, RN <br>
-💻 - +8 years of Programming back-end experience <br>
 🎓 - Mechanical Eng. Bachelor's Student <br>
-🔎 - Autodidact resarcher and programmer
-<img align="center" alt="Rubynho" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg"> - Ruby lover <br>
+💻 - +8 years of Programming back-end experience <br>
+🔎 - Autodidact resarcher and programmer since the 14 years old <br>
+❤️ - Ruby, Rust and C lover <br>
 
 
 
