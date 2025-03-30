@@ -1,6 +1,6 @@
-# Olá, me chamo Matheus! 👋
+# Howdy, I'm Matheus "fasmagoric" Victor! 👋
 
-Bem-vindo ao meu perfil no GitHub!
+Welcome to my GitHub!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
@@ -12,3 +12,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
   <img align="center" alt="Rustuwu" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg">
   <img align="center" alt="THELinux" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
 </div>
+
+### About me 🫠
+
+🇧🇷 - Born in Mossoró, Rio Grande do Norte
+💻 - +8 years of Programming experience
+👨‍🎓 - UFERSA Mechanical Engineer Bachelor's Student
+
+
+
