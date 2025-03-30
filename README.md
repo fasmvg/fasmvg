@@ -15,9 +15,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
 
 ### About me 🫠
 
-🇧🇷 - Born in Mossoró, Rio Grande do Norte
-💻 - +8 years of Programming experience
-👨‍🎓 - UFERSA Mechanical Engineer Bachelor's Student
+🇧🇷 - Born in Mossoró, Rio Grande do Norte <br>
+💻 - +8 years of Programming experience <br>
+👨‍🎓 - UFERSA Mechanical Engineer Bachelor's Student <br>
 
 
 
