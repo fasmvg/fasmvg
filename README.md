@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
 
 ### About me 🫠
 
-fn speak() -> [&'static str] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] }
+fn speak() -> [&'static str; 3] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] }
 
 🇧🇷 - Born in Mossoró, RN <br>
 🎓 - Mechanical Eng. Bachelor's Student <br>
