@@ -6,7 +6,7 @@ Welcome to my GitHub!
   
   <a href="https://github.com/fasmagoric"  align="left">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fasmagoric&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoulakis&layout=compact&langs_count=7&theme=nightowl"  />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasmagoric&layout=compact&langs_count=7&theme=nightowl"  />
   </a> 
 
 </div>
