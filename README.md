@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
 🇧🇷 - Born in Mossoró, RN <br>
 💻 - +8 years of Programming experience <br>
 👨‍🎓 - Mechanical Eng. Bachelor's Student <br>
-❤️ - <img align="center" alt="Rubynho" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg"> Ruby lover 
+<img align="center" alt="Rubynho" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg"> - Ruby lover <br>
 
 
 
