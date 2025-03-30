@@ -1,4 +1,4 @@
-# Howdy, I'm Matheus "fasmagoric" Victor! 👋
+# Howdy, I'm Matheus! 👋
 
 Welcome to my GitHub!
 
