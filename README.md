@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, me chamo Matheus! 👋
 
-<!--
-**fasmagoric/fasmagoric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="40" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
+  <img align="center" alt="Cpp" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Rustuwu" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg">
+  <img align="center" alt="THELinux" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
+</div>
