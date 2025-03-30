@@ -26,7 +26,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/
 
 🇧🇷 - Born in Mossoró, RN <br>
 💻 - +8 years of Programming experience <br>
-👨‍🎓 - Mechanical Engineer Bachelor's Student <br>
+👨‍🎓 - Mechanical Eng. Bachelor's Student <br>
 
 
 
