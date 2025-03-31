@@ -26,6 +26,7 @@
   <img align="center" alt="postgres" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="docker" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain.svg">
   <img align="center" alt="THELinux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Android" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg">
   <p align="center">
     <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/github-contribution-grid-snake.svg" target="_blank" alt="Snake animation">  
   </p>
