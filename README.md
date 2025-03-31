@@ -11,7 +11,7 @@
 
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ruby" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Go" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg">
   <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
@@ -31,8 +31,14 @@
     <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/github-contribution-grid-snake.svg" target="_blank" alt="Snake animation">  
   </p>
 
+### Badges:
+
 </div>
+
+<div style="display: inline_block" align="center">
 <img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/openhub_original.png" align="center">
+<img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/CS50.png" align="center">  
+</div>
 
 ### About me 🫠
 
