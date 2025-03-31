@@ -48,7 +48,9 @@
 
 ### About me 🫠
 
-fn I_speak() -> [&'static str; 3] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] }
+```rust
+fn speak() -> [&'static str; 3] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] }
+```
 
 🇧🇷 - Born in Mossoró, RN <br>
 🎓 - Mechanical Eng. Bachelor's Student <br>
