@@ -36,8 +36,14 @@
 </div>
 
 <div style="display: inline_block" align="center">
+  
 <img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/openhub_original.png" align="center">
-<img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/CS50.png" align="center">  
+<img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/CS50.png" align="center"> 
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="150em" >
 </div>
 
 ### About me 🫠
