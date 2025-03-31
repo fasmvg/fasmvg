@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="150em" >
+  <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="155em" >
 </div>
 
 ### About me 🫠
@@ -58,7 +58,7 @@ fn speak() -> [&'static str; 3] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] 
 🔎 - Autodidact resarcher and programmer since the 14 years old <br>
 ❤️ - Ruby, Rust and C lover <br>
 
----
+### Projects 👨‍💻
 
-### Projects 
-
+🌐 - Currently working on embedded systems development with a focus on real-time performance and resource optimization. <br>
+👨‍🔬 - Initiating a scientific research initiative with a specialized focus on backend architectures, delving deeper into advanced theoretical concepts and methodologies.
