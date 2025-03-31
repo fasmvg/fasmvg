@@ -8,7 +8,6 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fasmagoric&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasmagoric&layout=compact&langs_count=7&theme=nightowl"  />
   </a> 
-    <img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/UFERSA_OPENhub.png" align="right"/>
 
 </div>
 
@@ -31,7 +30,7 @@
   </p>
 
 </div>
-
+<img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/openhub_original.png" align="center">
 
 ### About me 🫠
 
