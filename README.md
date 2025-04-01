@@ -36,10 +36,9 @@
 </div>
 
 <div style="display: inline_block" align="center">
-  
-<img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/openhub_original.png" align="center">
-<img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/CS50.png" align="center"> 
-
+  <img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/openhub_original.png" align="center">
+  <img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/CS50.png" align="center"> 
+  <img height="200em" src="https://github.com/fasmagoric/fasmagoric/blob/main/FSF-bdg.png" align="center">
 </div>
 
 <div align="center">
