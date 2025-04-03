@@ -39,10 +39,13 @@
   <img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/openhub_original.png" align="center">
   <img height="200em" src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/CS50.png" align="center"> 
   <img height="200em" src="https://github.com/fasmagoric/fasmagoric/blob/main/FSF-bdg.png" align="center">
+  <img height="200em" src="https://github.com/fasmagoric/fasmagoric/blob/main/ROLLBACK-badge.png" align="center">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="155em" >
+<div align="display: inline_block">
+  <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="350em", height="50em">
+  <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="350em", height="50em" >
+  <img src="https://raw.githubusercontent.com/fasmagoric/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="350em", height="50em" >
 </div>
 
 ### About me 🫠
