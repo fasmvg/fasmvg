@@ -28,7 +28,7 @@
   <img align="center" alt="THELinux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
   <img align="center" alt="Android" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/mvghasty/fasmagoric/refs/heads/main/github-contribution-grid-snake.svg" target="_blank" alt="Snake animation">  
+    <img src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/github-contribution-grid-snake.svg" target="_blank" alt="Snake animation">  
   </p>
 
 ### Badges:
@@ -36,14 +36,14 @@
 </div>
 
 <div style="display: inline_block" align="center">
-  <img height="200em" src="https://raw.githubusercontent.com/mvghasty/fasmagoric/refs/heads/main/openhub_original.png" align="center">
-  <img height="200em" src="https://raw.githubusercontent.com/mvghasty/fasmagoric/refs/heads/main/CS50.png" align="center"> 
-  <img height="200em" src="https://github.com/mvghasty/fasmagoric/blob/main/FSF-bdg.png" align="center">
-  <img height="200em" src="https://github.com/mvghasty/fasmagoric/blob/main/ROLLBACK-badge.png" align="center">
+  <img height="200em" src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/openhub_original.png" align="center">
+  <img height="200em" src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/CS50.png" align="center"> 
+  <img height="200em" src="https://github.com/mvghasty/mvghasty/blob/main/FSF-bdg.png" align="center">
+  <img height="200em" src="https://github.com/mvghasty/mvghasty/blob/main/ROLLBACK-badge.png" align="center">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mvghasty/fasmagoric/refs/heads/main/jumpy.gif" alt="Line gif div" width="2500em", height="100em">
+  <img src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/jumpy.gif" alt="Line gif div" width="2500em", height="100em">
 </div>
 
 ### About me 🫠
