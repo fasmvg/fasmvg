@@ -18,7 +18,7 @@
   <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="TS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg">
+  <img align="center" alt="C" height="35" width="32" src="icons/C.png">
   <img align="center" alt="Cpp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rustuwu" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg">
   <img align="center" alt="Php" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
