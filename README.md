@@ -20,7 +20,7 @@
   <img align="center" alt="TS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="C" height="35" width="32" src="icons/C.png">
   <img align="center" alt="Cpp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Rustuwu" height="35" width="32" src="icons/rust.png">
+  <img align="center" alt="Rustuwu" height="35" width="35" src="icons/rust.png">
   <img align="center" alt="Php" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
   <img align="center" alt="ssh" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ssh/ssh-original-wordmark.svg">
   <img align="center" alt="bash" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">
