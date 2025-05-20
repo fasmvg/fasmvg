@@ -27,7 +27,6 @@
   <img align="center" alt="bash" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">
   <img align="center" alt="postgres" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="sqlite" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="docker" height="35" width="35" src="icons/docker.png">
   <img align="center" alt="Nix" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nixos/nixos-original.svg">
   <img align="center" alt="Fedora" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fedora/fedora-original.svg">
   <img align="center" alt="THELinux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
