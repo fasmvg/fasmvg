@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  <a href="https://github.com/mvghasty"  align="left">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mvghasty&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvghasty&layout=compact&langs_count=10&theme=nightowl">
+  <a href="https://github.com/mvghasty" align="left">
+    <img height="140em" width="250em" src="https://github-readme-stats.vercel.app/api?username=mvghasty&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true">
+    <img height="140em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvghasty&layout=compact&langs_count=10&theme=nightowl">
   </a> 
 
 </div>
@@ -41,10 +41,10 @@
 </div>
 
 <div style="display: inline_block" align="center">
-  <img height="200em" src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/openhub_original.png" align="center">
-  <img height="200em" src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/CS50.png" align="center"> 
-  <img height="200em" src="https://github.com/mvghasty/mvghasty/blob/main/FSF-bdg.png" align="center">
-  <img height="200em" src="https://github.com/mvghasty/mvghasty/blob/main/mit.png" align="center">
+  <img height="200em" width="200em" src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/openhub_original.png" align="center">
+  <img height="200em" width="200em" src="https://raw.githubusercontent.com/mvghasty/mvghasty/refs/heads/main/CS50.png" align="center"> 
+  <img height="200em" width="200em" src="https://github.com/mvghasty/mvghasty/blob/main/FSF-bdg.png" align="center">
+  <img height="200em" width="200em" src="https://github.com/mvghasty/mvghasty/blob/main/mit.png" align="center">
 </div>
 
 <div align="center">
