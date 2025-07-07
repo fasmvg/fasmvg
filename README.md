@@ -6,7 +6,7 @@
   
   <a href="https://github.com/mvghasty" align="left">
     <img height="140em" width="410em" src="https://github-readme-stats.vercel.app/api?username=mvghasty&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true">
-    <img height="140em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvghasty&layout=compact&langs_exclude=html,scss,css&langs_count=10&theme=nightowl">
+    <img height="140em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvghasty&layout=compact&hide=html,scss,css,makefile&langs_count=10&theme=nightowl">
   </a> 
 
 </div>
