@@ -1,4 +1,4 @@
-# Howdy, I'm Matheus "mvg" Victor! 👋
+# Howdy, I'm "mvg"! 👋
 
 🚀 - Welcome to my GitHub!
 
