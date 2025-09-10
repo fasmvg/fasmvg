@@ -62,14 +62,3 @@ fn speak() -> [&'static str; 3] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] 
 💻 - +5 years of Programming back-end experience <br>
 🔎 - Autodidact resarcher and programmer since the 14 years old <br>
 ❤️ - Ruby, Rust and C lover <br>
-
-### Projects 👨‍💻
-
-🌐 - Currently working on embedded systems development with a focus on real-time performance and resource optimization. <br>
-👨‍🔬 - Initiating a scientific research initiative with a specialized focus on backend architectures, delving deeper into advanced theoretical concepts and methodologies. <br>
-📖 - Learning and Studying: 
-  - **LANGS:** <br>
-    -> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/haskell/haskell-original.svg" width="20" align="center"> Haskell <br> 
-    -> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg" width="20" align="center"> C# <br>
-  - **THEORIC:** <br>
-    -> Recursive functions and algorithms applied to functional programming.
