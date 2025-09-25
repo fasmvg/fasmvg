@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  <a href="https://github.com/mvguest" align="left">
-    <img height="140em" width="410em" src="https://github-readme-stats.vercel.app/api?username=mvguest&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true">
-    <img height="140em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvguest&layout=compact&hide=html,scss,css,makefile&langs_count=12&theme=nightowl">
+  <a href="https://github.com/fasmvg" align="left">
+    <img height="140em" width="410em" src="https://github-readme-stats.vercel.app/api?username=fasmvg&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true">
+    <img height="140em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fasmvg&layout=compact&hide=html,scss,css,makefile&langs_count=12&theme=nightowl">
   </a> 
 
 </div>
@@ -33,7 +33,7 @@
   <img align="center" alt="Android" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg">
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/mvguest/mvguest/refs/heads/main/github-contribution-grid-snake.svg" target="_blank" alt="Snake animation">  
+    <img src="https://raw.githubusercontent.com/fasmvg/fasmvg/refs/heads/main/github-contribution-grid-snake.svg" target="_blank" alt="Snake animation">  
   </p>
 
 ### Badges:
@@ -41,14 +41,14 @@
 </div>
 
 <div style="display: inline_block" align="center">
-  <img height="200em" width="200em" src="https://raw.githubusercontent.com/mvguest/mvguest/refs/heads/main/openhub_original.png" align="center">
-  <img height="200em" width="200em" src="https://raw.githubusercontent.com/mvguest/mvguest/refs/heads/main/CS50.png" align="center"> 
-  <img height="200em" width="200em" src="https://github.com/mvguest/mvguest/blob/main/FSF-bdg.png" align="center">
-  <img height="200em" width="200em" src="https://github.com/mvguest/mvguest/blob/main/mit.png" align="center">
+  <img height="200em" width="200em" src="https://raw.githubusercontent.com/fasmvg/fasmvg/refs/heads/main/openhub_original.png" align="center">
+  <img height="200em" width="200em" src="https://raw.githubusercontent.com/fasmvg/fasmvg/refs/heads/main/CS50.png" align="center"> 
+  <img height="200em" width="200em" src="https://github.com/fasmvg/fasmvg/blob/main/FSF-bdg.png" align="center">
+  <img height="200em" width="200em" src="https://github.com/fasmvg/fasmvg/blob/main/mit.png" align="center">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mvguest/mvguest/refs/heads/main/jumpy.gif" alt="Line gif div" width="2500em", height="100em">
+  <img src="https://raw.githubusercontent.com/fasmvg/fasmvg/refs/heads/main/jumpy.gif" alt="Line gif div" width="2500em", height="100em">
 </div>
 
 ### About me 🫠
