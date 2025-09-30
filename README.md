@@ -50,9 +50,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/fasmvg/fasmvg/refs/heads/main/jumpy.gif" alt="Line gif div" width="2500em", height="100em">
 </div>
-
-### About me 🫠
-
-```rust
-fn speak() -> [&'static str; 3] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] }
-```
