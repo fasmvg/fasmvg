@@ -56,9 +56,3 @@
 ```rust
 fn speak() -> [&'static str; 3] { ["🇵🇹-🇧🇷", "🇮🇹", "🇺🇲"] }
 ```
-
-🇧🇷 - Born and live in Mossoró, RN <br>
-🎓 - Mechanical Eng. Bachelor's Student <br>
-💻 - +5 years of Programming back-end experience <br>
-🔎 - Autodidact resarcher and programmer since the 14 years old <br>
-❤️ - Ruby, Java and C lover <br>
