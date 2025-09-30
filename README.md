@@ -1,7 +1,5 @@
 # Howdy, I'm "mvg"! 👋
 
-🚀 - Welcome to my GitHub!
-
 <div align="center">
   
   <a href="https://github.com/fasmvg" align="left">
