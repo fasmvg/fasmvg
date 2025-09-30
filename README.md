@@ -36,8 +36,6 @@
     <img src="https://raw.githubusercontent.com/fasmvg/fasmvg/refs/heads/main/github-contribution-grid-snake.svg" target="_blank" alt="Snake animation">  
   </p>
 
-### Badges:
-
 </div>
 
 <div style="display: inline_block" align="center">
